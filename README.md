@@ -12,7 +12,7 @@
 ## Overview
 
 This library contains a basic implementation of three different classes on the real numbers domain: Polynomial, Vector and Matrix. Here, a brief overview of the functionalities for each kind of object is provided.
-To have a more precise idea of all the available methods just have a look to the header file *linalg.hpp*.
+To have a more precise idea of all the available methods just have a look to the header file `linalg.hpp`.
 
 * Polynomial
   * basic algebraic operations (addition, subtraction, multiplication and division)
