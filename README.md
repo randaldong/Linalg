@@ -63,14 +63,14 @@ git clone https://github.com/ryandoren/Linalg.git
 cd linalg
 ```
 
-Then, you can easily build the `linalg` library (on Linux system only) using *CMake*:
+Then, you can easily build the `linalg` library (**on Linux system only**) using `CMake`:
 
 ```bash
 cmake .
 make
 ```
 
-Finally, you can run as an example the executable *example.out* simply typing:
+Finally, you can run as an example the executable `example.out` simply typing:
 ```
 ./example.out
 ```
